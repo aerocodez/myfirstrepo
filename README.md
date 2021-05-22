@@ -1,2 +1,2 @@
 # myfirstrepo
-sample text
+sample text and more sample text
